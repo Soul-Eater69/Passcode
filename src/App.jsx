@@ -39,6 +39,7 @@ function App() {
         flexDirection: "column",
         justifyContent: "center",
         alignItems: "center",
+        fontFamily: "Arial, Helvetica, sans-serif",
       }}
     >
       {mess}
